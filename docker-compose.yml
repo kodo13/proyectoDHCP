@@ -1,0 +1,10 @@
+version: '3'
+services:
+  dhcpd:
+    # docker-compose settings
+    container_name: isc-dhcp-server
+    network_mode: "host"
+    # docker swarm settings
+    image: networkboot/dhcpd
+    volumes:
+      - ./data:/data
