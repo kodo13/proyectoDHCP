@@ -6,3 +6,83 @@ authoring-byte-order little-endian;
 
 server-duid "\000\001\000\001+#v\324\010\000'\271\037\033";
 
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:11:32;
+  ends 0 2022/12/11 03:21:32;
+  cltt 0 2022/12/11 03:11:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:16:23;
+  ends 0 2022/12/11 03:26:23;
+  cltt 0 2022/12/11 03:16:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:21:05;
+  ends 0 2022/12/11 03:31:05;
+  cltt 0 2022/12/11 03:21:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:25:41;
+  ends 0 2022/12/11 03:35:41;
+  cltt 0 2022/12/11 03:25:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:29:47;
+  ends 0 2022/12/11 03:39:47;
+  cltt 0 2022/12/11 03:29:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:33:52;
+  ends 0 2022/12/11 03:43:52;
+  cltt 0 2022/12/11 03:33:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:37:42;
+  ends 0 2022/12/11 03:47:42;
+  cltt 0 2022/12/11 03:37:42;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
+lease 192.168.1.100 {
+  starts 0 2022/12/11 03:42:30;
+  ends 0 2022/12/11 03:52:30;
+  cltt 0 2022/12/11 03:42:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:d2:b3:c4;
+  client-hostname "dony-VirtualBox";
+}
